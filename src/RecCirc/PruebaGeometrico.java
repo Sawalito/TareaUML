@@ -14,7 +14,7 @@ public class PruebaGeometrico {
 		Rectangulo rectangulo = new Rectangulo(12,14);
 		Circulo circulo = new Circulo(1);
 		
-		
+	
 		System.out.println(rectangulo.CalcularArea());
 		System.out.println(rectangulo.CalcularPerimetro());
 		
